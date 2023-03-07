@@ -1,0 +1,170 @@
+span {
+  font-weight: 700;
+  color: #274c5b;
+  font-size: 38px;
+}
+
+.nav-items {
+  list-style-type: none;
+  text-align: center;
+  color: #274c5b;
+  font-size: 20px;
+}
+
+.nav-items li {
+  display: inline-block;
+  width: 100px;
+  font-weight: 700;
+}
+
+.logo {
+  vertical-align: middle;
+  padding: 50px;
+}
+
+.banner {
+  margin-top: 100px;
+}
+
+.service-single {
+  margin-top: 150px;
+  margin: 250px;
+}
+
+.content p {
+  font-size: 50px;
+  font-weight: 800;
+  margin-left: 300px;
+  color: #274c5b;
+}
+
+.content h1 {
+  font-weight: 400;
+  margin-left: 300px;
+  padding-right: 300px;
+  color: #525c60;
+}
+
+.part-1 p {
+  font-size: 25px;
+  font-weight: 500;
+  color: #274c5b;
+}
+
+.part-1 h1 {
+  font-size: 18px;
+  font-weight: 400;
+  color: #525c60;
+}
+
+.part-1 img {
+  margin-left: 300px;
+  float: left;
+  border-radius: 20px;
+  margin-right: 50px;
+}
+
+.part-2 p {
+  font-size: 25px;
+  font-weight: 500;
+  color: #274c5b;
+}
+
+.part-2 h1 {
+  font-size: 18px;
+  font-weight: 400;
+  color: #525c60;
+}
+
+.part-2 {
+  margin-top: 300px;
+  padding-left: 300px;
+}
+
+.part-2 img {
+  float: right;
+  margin-right: 300px;
+  border-radius: 20px;
+}
+
+.part-3 p {
+  font-size: 35px;
+  font-weight: 800;
+  color: #274c5b;
+}
+
+.part-3 h1 {
+  font-size: 18px;
+  font-weight: 400;
+  color: #525c60;
+  margin-right: 300px;
+}
+
+.part-3 {
+  margin-top: 300px;
+}
+
+.newslatteer {
+  margin-top: 100px;
+  margin-left: 250px;
+}
+
+.newslatteer img {
+  border-radius: 20px;
+}
+
+.contact h1 {
+  font-size: 30px;
+  font-weight: 700;
+  color: #274c5b;
+}
+
+.contact p {
+  font-weight: 700;
+}
+
+.contact h2 {
+  color: #525c60;
+  font-size: 18px;
+}
+
+.contact {
+  margin-left: 250px;
+}
+
+.about h1 {
+  font-size: 18px;
+  font-weight: 400;
+  color: #525c60;
+}
+
+.about {
+  text-align: center;
+  margin-left: 100px;
+}
+
+footer {
+  display: inline-flex;
+}
+
+.utility-pages p {
+  font-size: 30px;
+  font-weight: 700;
+  color: #274c5b;
+  margin-left: 30px;
+}
+
+.utility-pages ul {
+  list-style-type: none;
+  font-size: 18px;
+  color: #525c60;
+}
+
+.utility-pages {
+  margin-left: 100px;
+}
+
+.copyright p {
+  font-size: 18px;
+  text-align: center;
+}
